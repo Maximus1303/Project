@@ -6,7 +6,6 @@ import App from './app/App';
 import './shared/config/i18n/i18n';
 import { ErrorBoundary } from './app/providers/ErrorBoundary';
 
-
 render(
     <BrowserRouter>
         {/* @ts-ignore */}
